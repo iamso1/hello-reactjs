@@ -26,11 +26,23 @@ step7:
 step8:
     add webpack.config.js to root folder
     
-step9: 要加入query prest 不然會錯誤
-    edit webpack.config.js
+step9: 
+    edit webpack.config.js //要加入query prest 不然會錯誤
     
 step10:
     mkdir app
     
+step11:
+    mkdir components
+    touch Main.js
 
+step12:
+    edit Main.js
+    
+step13:
+    webpack -w  // 產生bundle.js
+    
+step14:
+    open index.html in browser
+    
     
