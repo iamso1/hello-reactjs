@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/iamso1/hello-reactjs#readme",
   "dependencies": {
-    "react": "^15.0.2"
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.7.7",
